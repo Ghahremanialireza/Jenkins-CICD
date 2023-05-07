@@ -1,0 +1,8 @@
+
+#how to intall jenkins on your linux system
+https://www.jenkins.io/doc/book/installing/linux/
+
+
+#how to remove jenkins from ubuntu
+https://www.baeldung.com/linux/remove-jenkins
+
